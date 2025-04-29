@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessages", "SendMessage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationService", "ValidationService\ValidationService.csproj", "{6BFB60E2-F1EB-497C-8410-F437B9D18837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModels", "SharedModels\SharedModels.csproj", "{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,8 +57,23 @@ Global
 		{6BFB60E2-F1EB-497C-8410-F437B9D18837}.Release|x64.Build.0 = Release|Any CPU
 		{6BFB60E2-F1EB-497C-8410-F437B9D18837}.Release|x86.ActiveCfg = Release|Any CPU
 		{6BFB60E2-F1EB-497C-8410-F437B9D18837}.Release|x86.Build.0 = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|x64.Build.0 = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Debug|x86.Build.0 = Debug|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|x64.ActiveCfg = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|x64.Build.0 = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{E0B271FE-A8C1-49B7-8AE7-9EADE8F6AD0E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F612482-D3EB-4853-B154-183E25883996}
 	EndGlobalSection
 EndGlobal
