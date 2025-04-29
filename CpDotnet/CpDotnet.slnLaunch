@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Execução do Projeto",
+    "Projects": [
+      {
+        "Path": "ValidationService\\ValidationService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ReceiveMessages\\ReceiveMessages.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SendMessages\\SendMessages.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
