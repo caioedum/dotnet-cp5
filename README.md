@@ -36,7 +36,7 @@ Sistema composto por:
 ```
 
 git clone https://github.com/caioedum/dotnet-cp5.git
-cd fiap-cp5-messaging
+cd dotnet-cp5
 docker-compose up -d  \# Inicia o RabbitMQ
 dotnet restore
 
