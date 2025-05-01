@@ -117,6 +117,16 @@ Verifique:
 - RabbitMQ.Client 7.x
 - Newtonsoft.Json 13.x
 
+## **Integrantes do Grupo**
+
+| Nome Completo | RM |
+| :-- | :-- |
+| Caio Eduardo Nascimento Martins | RM554025 |
+| Igor Mendes Oviedo | RM553434 |
+| Julia Mariano Barsotti Ferreira | RM552713 |
+| Leonardo Gaspar Saheb | RM553383 |
+| Thiago Melo Carrillo | RM553565 |
+
 ## 📄 Licença
 MIT License - Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
